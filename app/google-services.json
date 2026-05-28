@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "452966960725",
+    "project_id": "roomiz-d7893",
+    "storage_bucket": "roomiz-d7893.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452966960725:android:6e6fd336873ebc89060edc",
+        "android_client_info": {
+          "package_name": "com.example.roomiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGNvWUUFpyhZCTuqm5Bw5TQKiUm-EA72A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
